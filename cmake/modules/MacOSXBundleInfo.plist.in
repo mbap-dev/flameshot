@@ -34,10 +34,10 @@
 	<string>10.15</string>
 	<key>NSPrincipalClass</key>
 	<string>NSApplication</string>
-	<key>NSHighResolutionCapable</key>
-	<string>True</string>
-	<key>LSUIElement</key>
-	<string>1</string>
+        <key>NSHighResolutionCapable</key>
+        <true/>
+        <key>LSUIElement</key>
+        <true/>
 	<key>NSPhotoLibraryAddUsageDescription</key>
 	<string>Application requires access to save screenshots to your gallery</string>
 	<key>NSSupportsAutomaticGraphicsSwitching</key>
