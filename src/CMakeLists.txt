@@ -51,7 +51,7 @@ if (APPLE)
     endif()
 
     if(EXISTS "${FLAMESHOT_ICNS}")
-        set(MACOSX_BUNDLE_ICON_FILE flameshot.icns)
+        set(MACOSX_BUNDLE_ICON_FILE flameshot)
         set(APP_ICON_MACOSX ${FLAMESHOT_ICNS})
         set_source_files_properties(${APP_ICON_MACOSX} PROPERTIES MACOSX_PACKAGE_LOCATION "Resources")
         add_executable(flameshot MACOSX_BUNDLE main.cpp ${APP_ICON_MACOSX})

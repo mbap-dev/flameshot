@@ -5,31 +5,31 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>English</string>
 	<key>CFBundleExecutable</key>
-       <string>${MACOSX_BUNDLE_EXECUTABLE_NAME}</string>
+       <string>flameshot</string>
 	<key>CFBundleGetInfoString</key>
-       <string>${MACOSX_BUNDLE_INFO_STRING}</string>
+       <string></string>
 	<key>CFBundleIconFile</key>
-       <string>${MACOSX_BUNDLE_ICON_FILE}</string>
+       <string>flameshot</string>
 	<key>CFBundleIdentifier</key>
-       <string>${MACOSX_BUNDLE_GUI_IDENTIFIER}</string>
+       <string>@MACOSX_BUNDLE_IDENTIFIER@</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-       <string>${MACOSX_BUNDLE_BUNDLE_NAME}</string>
+       <string>Flameshot</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-       <string>${MACOSX_BUNDLE_SHORT_VERSION_STRING}</string>
+       <string></string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleVersion</key>
-       <string>${MACOSX_BUNDLE_BUNDLE_VERSION}</string>
+       <string>@PROJECT_VERSION@</string>
 	<key>CFBundleLongVersionString</key>
-       <string>${MACOSX_BUNDLE_LONG_VERSION_STRING}</string>
+       <string>@PROJECT_VERSION@</string>
 	<key>CSResourcesFileMapped</key>
 	<true/>
 	<key>NSHumanReadableCopyright</key>
-       <string>${MACOSX_BUNDLE_COPYRIGHT}</string>
+       <string></string>
 	<key>LSMinimumSystemVersion</key>
 	<string>10.15</string>
 	<key>NSPrincipalClass</key>
